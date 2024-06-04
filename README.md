@@ -35,3 +35,6 @@ pip install torch torchvision
 python3 perceptron.py
 python3 torch_perceptron.py
 ```
+
+## Video da ponderada:
+https://drive.google.com/file/d/1X8nHvMVyf__KL_qiwy_aBMKXMwUlBlWO/view?usp=sharing
